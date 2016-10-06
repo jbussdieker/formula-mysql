@@ -1,0 +1,7 @@
+name: mysql
+os: Ubuntu
+os_family: Debian
+version: 0.1
+release: 0
+summary: Formula for mysql.
+description: Formula for mysql.
